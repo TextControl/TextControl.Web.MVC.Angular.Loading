@@ -68,18 +68,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Update="tx28_doc.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="tx28_htm.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="tx28_rtf.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
-    <None Update="tx28_xml.dll">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Update="tx29_css.dll">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
